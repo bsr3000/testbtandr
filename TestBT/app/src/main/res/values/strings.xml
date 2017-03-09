@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestBT</string>
+    <string name="action_settings">Settings</string>
+    <string name="passwordstr">Password</string>
+    <string name="uname">Username</string>
+    <string name="urltoserver">Server URL</string>
+    <string name="login">Login</string>
+    <string name="logo">Login to TestBT App</string>
+    <string name="urlHelpText">Enter Server URL to login into application</string>
+    <string name="hostProblems">Host is unreacheable.</string>
+    <string name="password_len_error">You haven`t provide password.</string>
+    <string name="username_len_error">Username is empty</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_about" />
+    <string name="action_abou">About</string>
+    <string name="accountmy">My Profile</string>
+    <string name="docsmy">My Docs</string>
+    <string name="groupmy">My Group</string>
+</resources>
